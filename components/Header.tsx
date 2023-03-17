@@ -17,13 +17,13 @@ export default function Header() {
         </h1>
       </Link>
       <a
-        href="https://vercel.com"
+        href="https://github.com/NickDiPreta/coverlettergenerator"
         target="_blank"
         rel="noreferrer"
       >
         <Image
-          alt="Vercel Icon"
-          src="/vercelLogo.png"
+          alt="N Icon"
+          src="/letter-n.png"
           className="sm:w-8 sm:h-[27px] w-8 h-[28px]"
           width={32}
           height={28}
