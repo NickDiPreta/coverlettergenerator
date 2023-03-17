@@ -2,7 +2,7 @@
 
 This project generates Twitter bios for you using AI.
 
-[![Cover Letter Generator](./public/screenshot1.png)
+![Cover Letter Generator](./public/screenshot1.png)
 
 ## How it works
 
