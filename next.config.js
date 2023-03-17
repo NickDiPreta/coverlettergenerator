@@ -8,11 +8,6 @@ module.exports = {
         destination: "https://github.com/NickDiPreta/coverlettergenerator",
         permanent: false,
       },
-      {
-        source: "/deploy",
-        destination: "https://vercel.com/templates/next.js/twitter-bio",
-        permanent: false,
-      },
     ];
   },
 };
