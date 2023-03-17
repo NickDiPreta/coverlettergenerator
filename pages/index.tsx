@@ -107,7 +107,7 @@ const Home: NextPage = () => {
             rows={4}
             className="w-full rounded-md border-gray-300 shadow-sm focus:border-black focus:ring-black my-5"
             placeholder={
-              "e.g. Senior Developer Advocate @Vercel
+              "e.g. Senior Developer Advocate @Vercel"
             }
           />
 
